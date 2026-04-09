@@ -1,0 +1,5 @@
+Emp No       Department   Pay Rate   Exempt   Hours Worked    Base Pay  
+E001         10           25.50      Y        40              1020.00   
+E002         20           18.75      N        35              656.25    
+E003         30           30.00      Y        45              1350.00   
+E004         10           22.00      N        38              836.00    
